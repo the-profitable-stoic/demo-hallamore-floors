@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Hallamore Floors",
+    "phone": "+16613312349",
+    "category": "flooring contractor",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's Flooring Experts",
+      "heroSubline": "Durable floors built to last. Hallamore Floors delivers quality and precision for every project, big or small.",
+      "aboutTitle": "Built on Grit and Craftsmanship",
+      "aboutText": [
+        "Hallamore Floors started with a simple vision: to provide Bakersfield with flooring solutions that stand up to the Kern County climate and the wear of everyday life. Founded by seasoned professionals with years of experience, we understand the unique challenges our community faces.",
+        "We approach every project with a commitment to quality, using time-tested techniques and durable materials. Our team takes pride in delivering exceptional results, whether it's a residential remodel or a commercial build-out. We believe in doing the job right the first time, every time.",
+        "As a local business, we're invested in the success of our community. We source materials locally whenever possible, supporting other Bakersfield businesses and contributing to the local economy. Hallamore Floors is more than just a flooring contractor; we're your neighbors, dedicated to building a stronger Bakersfield."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We use high-quality, resilient flooring materials built to withstand Bakersfield's extreme temperatures and heavy use."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our experienced team ensures precise installation, guaranteeing long-lasting performance and a flawless finish."
+        },
+        {
+          "title": "Competitive Pricing",
+          "description": "We offer transparent and competitive pricing, providing exceptional value without compromising on quality."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the specific flooring needs of Bakersfield homes and businesses, delivering tailored solutions for every project."
+        }
+      ],
+      "ctaHeadline": "Get a Free Flooring Quote",
+      "ctaSubline": "Transform your space with durable and beautiful floors. Contact Hallamore Floors today!"
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring",
+        "shortDescription": "Timeless elegance and lasting value for your Bakersfield home.",
+        "description": "Hardwood flooring adds warmth and sophistication to any space. At Hallamore Floors, we offer a wide selection of hardwood species, from classic oak to exotic Brazilian cherry, each chosen for its durability and aesthetic appeal. We understand that Bakersfield's dry climate can be tough on wood, so we use proven installation techniques and high-quality finishes to protect your investment. Our team will help you select the perfect hardwood to complement your home's style and withstand the rigors of daily life. Proper acclimation is vital in the Bakersfield climate. We ensure the wood adjusts to the home's humidity levels before installation to prevent warping or cracking. We handle everything from subfloor preparation to the final coat of sealant, ensuring a flawless and long-lasting hardwood floor.",
+        "process": [
+          "Step 1: Consultation and Selection: We'll discuss your needs and preferences to help you choose the perfect hardwood.",
+          "Step 2: Site Preparation: We'll assess the subfloor and ensure it's level and ready for installation.",
+          "Step 3: Precise Installation: Our skilled installers will meticulously lay each plank, ensuring a seamless and beautiful floor.",
+          "Step 4: Finishing and Sealing: We'll apply a durable finish to protect your hardwood and enhance its natural beauty."
+        ],
+        "benefits": [
+          "Increases home value",
+          "Adds timeless elegance",
+          "Provides a warm and inviting atmosphere",
+          "Offers excellent durability and longevity"
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for Bakersfield's climate?",
+            "answer": "Harder woods like oak, maple, or engineered hardwood are generally better suited for Bakersfield's dry climate as they are less prone to warping or cracking. We can help you choose the right species and finish to minimize the effects of dryness."
+          },
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The installation time varies depending on the size and complexity of the project, but most residential hardwood installations take between 2-5 days. We'll provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "How do I care for my hardwood floors?",
+            "answer": "Regular sweeping and occasional damp mopping with a wood-specific cleaner will help keep your hardwood floors looking their best. Avoid excessive moisture and use felt pads under furniture to prevent scratches."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Affordable, durable, and stylish flooring for Bakersfield families.",
+        "description": "Laminate flooring offers a cost-effective and versatile alternative to hardwood. It's incredibly durable, scratch-resistant, and easy to maintain, making it ideal for high-traffic areas and homes with children or pets. Hallamore Floors offers a wide range of laminate styles and colors to suit any decor, from realistic wood-look planks to modern tile designs. Laminate is a great option for Bakersfield homeowners looking to update their floors on a budget. Our experienced installers ensure a proper fit and finish, creating a seamless and beautiful floor that will last for years. We use moisture-resistant underlayment to protect against spills and humidity, ensuring the longevity of your laminate floor. Laminate floors are great for the budget conscious homeowner.",
+        "process": [
+          "Step 1: Selection and Measurement: We'll help you choose the perfect laminate style and accurately measure your space.",
+          "Step 2: Subfloor Preparation: We'll ensure the subfloor is clean, level, and dry.",
+          "Step 3: Professional Installation: Our skilled installers will carefully lay the laminate planks, ensuring a tight and secure fit.",
+          "Step 4: Finishing Touches: We'll install baseboards and trim to complete the look."
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Highly durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Available in a wide variety of styles"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While most laminate flooring is water-resistant, it's not completely waterproof. We recommend cleaning up spills promptly to prevent moisture damage. We also offer waterproof laminate options for areas prone to moisture, such as bathrooms and kitchens."
+          },
+          {
+            "question": "How long will laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years or more. The lifespan depends on the quality of the laminate and the amount of traffic it receives."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While DIY installation is possible, we recommend professional installation to ensure a proper fit and avoid potential problems. Our experienced installers can complete the job quickly and efficiently, guaranteeing a flawless finish."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Waterproof, stylish, and comfortable flooring perfect for Bakersfield homes.",
+        "description": "Vinyl flooring is a versatile and practical choice for any room in your home. Its waterproof properties make it ideal for kitchens, bathrooms, and laundry rooms, while its durability and comfort make it a great option for living areas and bedrooms. Hallamore Floors offers a wide selection of vinyl flooring options, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP), in a variety of styles, colors, and textures. Vinyl floors are resistant to Bakersfield's extreme temperatures and are easy to keep clean, making them a low-maintenance flooring solution for busy families. We'll help you choose the perfect vinyl flooring to match your style and budget. Vinyl can mimic the look of wood and tile and is softer underfoot.",
+        "process": [
+          "Step 1: Consultation and Design: We'll discuss your needs and help you choose the perfect vinyl flooring for your space.",
+          "Step 2: Precise Measurements: We'll accurately measure your room to ensure a perfect fit.",
+          "Step 3: Professional Installation: Our experienced installers will carefully install your vinyl flooring, paying attention to every detail.",
+          "Step 4: Final Inspection: We'll conduct a thorough inspection to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Waterproof and moisture-resistant",
+          "Durable and long-lasting",
+          "Comfortable underfoot",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "What's the difference between sheet vinyl, vinyl tile, and LVP?",
+            "answer": "Sheet vinyl comes in large rolls, providing a seamless and waterproof surface. Vinyl tile comes in individual squares, offering more design flexibility. LVP mimics the look of hardwood or tile, providing a more luxurious and realistic appearance."
+          },
+          {
+            "question": "Can vinyl flooring be installed over existing flooring?",
+            "answer": "In some cases, vinyl flooring can be installed over existing flooring, but it's important to ensure the existing floor is clean, level, and in good condition. We'll assess your specific situation and advise you on the best course of action."
+          },
+          {
+            "question": "Is vinyl flooring suitable for basements?",
+            "answer": "Yes, vinyl flooring is an excellent choice for basements due to its waterproof properties and resistance to moisture and mold."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring",
+        "shortDescription": "Durable, elegant, and versatile tile flooring for Bakersfield homes and businesses.",
+        "description": "Tile flooring offers a timeless and durable solution for a variety of applications. From kitchens and bathrooms to entryways and patios, tile can withstand heavy traffic, moisture, and extreme temperatures. Hallamore Floors offers a wide selection of ceramic, porcelain, and natural stone tiles in a variety of sizes, shapes, colors, and textures. We'll help you create a stunning and functional space that reflects your personal style. Tile can add value to a home. Our expert installers ensure a precise and long-lasting installation, paying close attention to detail to create a flawless finish. Because Bakersfield experiences extreme summer heat, tile is a great way to keep your home cool. We use high-quality grout and sealants to protect against stains and water damage.",
+        "process": [
+          "Step 1: Design Consultation: We'll discuss your design vision and help you choose the perfect tile for your space.",
+          "Step 2: Surface Preparation: We'll ensure the subfloor is level and properly prepared for tile installation.",
+          "Step 3: Precise Installation: Our skilled installers will carefully lay each tile, ensuring proper spacing and alignment.",
+          "Step 4: Grouting and Sealing: We'll apply grout and sealant to protect your tile and enhance its appearance."
+        ],
+        "benefits": [
+          "Extremely durable and long-lasting",
+          "Waterproof and stain-resistant",
+          "Easy to clean and maintain",
+          "Available in a wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "What's the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more durable than ceramic tile, making it a better choice for high-traffic areas and outdoor applications. Ceramic tile is a more affordable option that's suitable for most indoor applications."
+          },
+          {
+            "question": "How do I clean tile flooring?",
+            "answer": "Regular sweeping and mopping with a mild detergent is usually sufficient to keep tile flooring clean. Avoid using abrasive cleaners or scrub brushes, as they can damage the tile's surface."
+          },
+          {
+            "question": "Can tile flooring be heated?",
+            "answer": "Yes, radiant heating systems can be installed under tile flooring to provide warmth and comfort during the cooler months. We can help you design and install a radiant heating system that's perfect for your needs."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable, affordable, and stylish carpet options for Bakersfield homes.",
+        "description": "Carpet provides warmth, comfort, and sound insulation, making it a popular choice for bedrooms, living rooms, and play areas. Hallamore Floors offers a wide selection of carpet styles, colors, and textures to suit any taste and budget. We'll help you choose the perfect carpet to create a cozy and inviting atmosphere in your home. Carpet is soft underfoot, making it a safe option for children. Our experienced installers ensure a proper fit and finish, paying close attention to detail to create a seamless and beautiful carpet installation. We use high-quality padding to enhance comfort and extend the life of your carpet. We understand Bakersfield's dry and dusty conditions, so we offer stain-resistant and easy-to-clean carpet options.",
+        "process": [
+          "Step 1: Consultation and Selection: We'll discuss your needs and help you choose the perfect carpet for your space.",
+          "Step 2: Accurate Measurements: We'll accurately measure your room to ensure a perfect fit.",
+          "Step 3: Professional Installation: Our skilled installers will carefully install your carpet, paying attention to every detail.",
+          "Step 4: Final Inspection: We'll conduct a thorough inspection to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Provides warmth and comfort",
+          "Reduces noise and sound transmission",
+          "Available in a wide variety of styles and colors",
+          "Affordable and budget-friendly"
+        ],
+        "faq": [
+          {
+            "question": "What type of carpet is best for high-traffic areas?",
+            "answer": "Nylon and olefin carpets are known for their durability and stain resistance, making them good choices for high-traffic areas. We can help you choose the right carpet fiber and construction for your specific needs."
+          },
+          {
+            "question": "How often should I clean my carpet?",
+            "answer": "Regular vacuuming is essential to remove dirt and debris. We recommend professional carpet cleaning every 12-18 months to maintain its appearance and extend its life."
+          },
+          {
+            "question": "What is carpet padding and why is it important?",
+            "answer": "Carpet padding provides cushioning, reduces noise, and extends the life of your carpet. It's an important component of any carpet installation and should be chosen based on the type of carpet and the amount of traffic it will receive."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-flooring",
+        "name": "Commercial Flooring",
+        "shortDescription": "Durable, safe, and stylish flooring solutions for Bakersfield businesses.",
+        "description": "Hallamore Floors provides commercial flooring solutions for businesses in Bakersfield and the surrounding areas. We understand the unique demands of commercial spaces, including high traffic, heavy equipment, and strict safety requirements. We offer a wide range of commercial flooring options, including vinyl composition tile (VCT), epoxy coatings, and carpet tile, each chosen for its durability, safety, and aesthetic appeal. Commercial flooring must be able to handle constant foot traffic. Our experienced team will work with you to select the perfect flooring solution to meet your specific needs and budget. We'll ensure a professional and timely installation, minimizing disruption to your business operations. We can provide flooring that is slip-resistant, a necessity for commercial spaces.",
+        "process": [
+          "Step 1: Site Assessment: We'll assess your commercial space and discuss your specific flooring needs.",
+          "Step 2: Material Selection: We'll help you choose the perfect flooring material based on your budget, traffic levels, and aesthetic preferences.",
+          "Step 3: Professional Installation: Our experienced installers will ensure a precise and durable installation.",
+          "Step 4: Project Management: We'll manage the entire project from start to finish, ensuring minimal disruption to your business."
+        ],
+        "benefits": [
+          "Durable and long-lasting",
+          "Safe and slip-resistant",
+          "Easy to clean and maintain",
+          "Meets strict safety requirements"
+        ],
+        "faq": [
+          {
+            "question": "What is VCT flooring?",
+            "answer": "VCT (vinyl composition tile) is a durable and affordable flooring option commonly used in commercial spaces. It's resistant to scratches, stains, and heavy traffic, making it a popular choice for offices, schools, and retail stores."
+          },
+          {
+            "question": "What are epoxy coatings?",
+            "answer": "Epoxy coatings are durable and seamless flooring solutions that are ideal for industrial and commercial spaces. They're resistant to chemicals, abrasion, and impact, making them a great choice for warehouses, factories, and garages."
+          },
+          {
+            "question": "What is carpet tile?",
+            "answer": "Carpet tile offers a versatile and modular flooring solution for commercial spaces. It's easy to install, replace, and clean, making it a popular choice for offices, schools, and retail stores."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Hallamore Floors is proud to serve the Bakersfield community, providing top-quality flooring solutions for homes and businesses. We understand the unique needs of Bakersfield residents, from dealing with the dry climate to matching the diverse architectural styles found throughout the city. Our expert team is dedicated to delivering exceptional craftsmanship and customer service, ensuring your flooring project is a complete success.\n\nWhether you're looking to upgrade your kitchen with stylish tile, add warmth to your living room with plush carpet, or enhance your business with durable commercial flooring, Hallamore Floors has you covered. We offer a wide selection of flooring materials, including hardwood, laminate, vinyl, and more, all at competitive prices. Contact us today for a free consultation and let us help you transform your space.",
+        "localContext": "Bakersfield, known for its agricultural industry and country music heritage, is a vibrant city in the heart of the San Joaquin Valley. Hallamore Floors is committed to serving the flooring needs of this growing community.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Hallamore Floors extends its exceptional flooring services to the residents and businesses of Oildale. We understand the specific needs of this community, offering durable and stylish flooring options to withstand the demands of daily life. Our experienced team is committed to providing top-notch installation and customer service, ensuring your complete satisfaction.\n\nFrom cozy homes to bustling businesses, Hallamore Floors has the perfect flooring solution for every space in Oildale. We offer a wide variety of materials, including hardwood, laminate, vinyl, and carpet, all at competitive prices. Let us help you enhance the beauty and functionality of your property with our high-quality flooring options.",
+        "localContext": "Oildale, a close-knit community with a rich history, is located just north of Bakersfield. Hallamore Floors is proud to serve the flooring needs of Oildale residents and businesses alike.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Hallamore Floors is delighted to offer our expert flooring services to the growing community of Rosedale. We understand the appeal of Rosedale's family-friendly atmosphere and newer homes, and offer a range of flooring options to suit any style and budget. Our team is dedicated to providing exceptional installation and customer service, ensuring your flooring project is a seamless experience.\n\nWhether you're building a new home or renovating an existing space, Hallamore Floors has the perfect flooring solution for your Rosedale property. We offer a wide selection of materials, including hardwood, tile, and carpet, all designed to enhance the beauty and value of your home. Contact us today for a free consultation and let us help you create the space of your dreams.",
+        "localContext": "Rosedale is a rapidly developing community northwest of Bakersfield, known for its newer residential developments and family-friendly environment. Hallamore Floors is committed to meeting the flooring needs of Rosedale's growing population.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Hallamore Floors provides professional flooring services to Shafter and the surrounding area. We understand the unique needs of homeowners and businesses in Shafter, offering durable and stylish flooring options that stand up to the demands of daily life. Our team is dedicated to providing exceptional installation and customer service, ensuring your complete satisfaction.\n\nFrom residential homes to commercial properties, Hallamore Floors has the perfect flooring solution for every space in Shafter. We offer a wide variety of materials, including hardwood, laminate, vinyl, and carpet, all at competitive prices. Let us help you enhance the beauty and functionality of your property with our high-quality flooring options.",
+        "localContext": "Shafter, a charming agricultural community with a strong sense of local pride, is located northwest of Bakersfield. Hallamore Floors is committed to serving the flooring needs of Shafter residents and businesses.",
+        "nearbyAreas": [
+          "Wasco",
+          "Rosedale",
+          "Oildale"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Hallamore Floors is proud to extend our flooring expertise to the town of Wasco. We understand the specific needs of Wasco residents and businesses, offering a variety of flooring options to suit any style and budget. Our experienced team is committed to providing top-quality installation and customer service, ensuring your flooring project is a success.\n\nWhether you're looking to update your home or enhance your commercial space, Hallamore Floors has the perfect flooring solution for you in Wasco. We offer a wide range of materials, including hardwood, laminate, tile, and carpet, all designed to improve the look and feel of your property. Contact us today for a free consultation and let us help you transform your space.",
+        "localContext": "Wasco, known for its rose growing industry and small-town charm, is located northwest of Bakersfield. Hallamore Floors is dedicated to providing exceptional flooring services to the Wasco community.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Hallamore Floors is pleased to offer our flooring services to the community of Lamont, CA. We understand the needs of Lamont's residents and businesses and aim to provide durable and stylish flooring solutions that enhance the quality and value of any property. Our team is committed to excellent customer service and professional installation.\n\nWhether you're looking to renovate your home or upgrade your commercial space, Hallamore Floors has the right flooring options for you. We offer a wide range of materials, including hardwood, laminate, vinyl, and carpet to suit your needs. Contact us today for a free quote and let us help you transform your space with beautiful and durable flooring.",
+        "localContext": "Lamont is a growing community southeast of Bakersfield with a strong agricultural presence. Hallamore Floors is happy to serve the residents and businesses of Lamont with high-quality flooring solutions.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Hallamore Floors is delighted to offer our professional flooring services to the residents and businesses of Arvin, CA. We recognize the importance of durable and attractive flooring in this community, and we are committed to providing top-quality products and expert installation services. Our team is dedicated to ensuring your complete satisfaction with your new floors.\n\nWhether you are renovating your home or upgrading your business space, Hallamore Floors has the perfect flooring solution for you. We offer a wide selection of flooring materials, including hardwood, laminate, vinyl, and carpet, all at competitive prices. Contact us today for a free consultation and let us help you transform your space with beautiful and long-lasting flooring.",
+        "localContext": "Arvin is a city located southeast of Bakersfield, known for its agricultural activities. Hallamore Floors is committed to serving the flooring needs of Arvin's growing community.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "McFarland",
+        "slug": "mcfarland-ca",
+        "state": "CA",
+        "content": "Hallamore Floors is proud to extend our expert flooring services to the community of McFarland, CA. We understand the unique needs of McFarland residents and businesses and offer a wide variety of flooring options to suit any style and budget. Our experienced team is dedicated to providing top-notch installation and customer service, ensuring your complete satisfaction.\n\nFrom cozy homes to bustling businesses, Hallamore Floors has the perfect flooring solution for every space in McFarland. We offer a wide range of materials, including hardwood, laminate, vinyl, and carpet, all at competitive prices. Let us help you enhance the beauty and functionality of your property with our high-quality flooring options.",
+        "localContext": "McFarland is a city located north of Bakersfield, known for its agricultural industry. Hallamore Floors is committed to serving the flooring needs of McFarland's residents and businesses.",
+        "nearbyAreas": [
+          "Delano",
+          "Wasco",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Delano",
+        "slug": "delano-ca",
+        "state": "CA",
+        "content": "Hallamore Floors is pleased to offer its professional flooring services to the town of Delano, California. We understand the specific needs of Delano residents and businesses, offering durable, stylish, and affordable flooring options. Our expert team provides exceptional installation and customer service, ensuring your complete satisfaction.\n\nWhether you're renovating your home or upgrading your commercial space, Hallamore Floors has the perfect flooring solution for Delano. We offer a wide selection of materials, including hardwood, laminate, vinyl, and carpet, all at competitive prices. Contact us today for a free consultation and let us help you transform your space with beautiful and long-lasting flooring.",
+        "localContext": "Delano is a city located north of Bakersfield, known for its agricultural heritage. Hallamore Floors is dedicated to serving the flooring needs of Delano's residents and businesses.",
+        "nearbyAreas": [
+          "McFarland",
+          "Wasco",
+          "Earlimart"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Laminate Flooring Installation",
+        "text": "Hallamore Floors installed laminate flooring in my living room, and I couldn't be happier. The crew was professional, efficient, and the floors look amazing! They were on time and cleaned up everything after the install. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Hardwood Refinishing",
+        "text": "We had Hallamore Floors refinish our original hardwood floors in our Oleander-Sunset home. They did a great job bringing them back to life. There were a few minor imperfections, but they addressed them quickly and professionally. Overall, very satisfied.",
+        "date": "2025-02-20"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 5,
+        "service": "Vinyl Flooring Installation",
+        "text": "Hallamore Floors installed vinyl flooring in our bathroom, and it looks fantastic! The team was very knowledgeable and helped us choose the perfect option for our needs. They were also very careful to protect our existing fixtures during the installation.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Tile Flooring Installation",
+        "text": "Excellent work on our kitchen tile! Hallamore Floors did a fantastic job installing new tile in our kitchen. The team was professional, courteous, and the finished product is beautiful. I would definitely use them again.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 4,
+        "service": "Carpet Installation",
+        "text": "Hallamore Floors installed carpet in our bedrooms. The install went smoothly and the carpet looks great. We were happy with the installation, but the communication leading up to the install could have been better. Overall, good experience.",
+        "date": "2024-10-18"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Commercial Flooring",
+        "text": "Hallamore Floors did an excellent job installing VCT flooring in our retail space. They worked quickly and efficiently to minimize disruption to our business. The floors look great and are holding up well to the heavy foot traffic. Highly recommend!",
+        "date": "2024-09-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Hallamore Floors | Bakersfield Flooring",
+        "description": "Bakersfield's trusted flooring contractor. Hardwood, laminate, vinyl, tile, carpet, and commercial flooring. Get a free quote today!"
+      },
+      "about": {
+        "title": "About Hallamore Floors | Bakersfield, CA",
+        "description": "Learn about Hallamore Floors, Bakersfield's premier flooring contractor. Quality craftsmanship, local expertise, and durable flooring solutions."
+      },
+      "services": {
+        "title": "Flooring Services | Hallamore Floors",
+        "description": "Hallamore Floors offers expert flooring services in Bakersfield. Hardwood, laminate, vinyl, tile, carpet, and commercial flooring installation and repair."
+      },
+      "contact": {
+        "title": "Contact Hallamore Floors | Bakersfield, CA",
+        "description": "Contact Hallamore Floors for a free flooring quote. Serving Bakersfield and surrounding areas. Call us today!"
+      },
+      "reviews": {
+        "title": "Hallamore Floors Reviews | Bakersfield, CA",
+        "description": "Read reviews from satisfied Hallamore Floors customers in Bakersfield. See why we're the trusted choice for flooring installation and repair."
+      },
+      "service-areas": {
+        "title": "Service Areas | Hallamore Floors",
+        "description": "Hallamore Floors provides flooring services in Bakersfield and surrounding areas. Find out if we serve your city."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "commercial-flooring": "/images/service-commercial-flooring.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-flooring": {
+        "src": "/images/service-commercial-flooring.webp",
+        "srcset": "/images/service-commercial-flooring-400w.webp 400w, /images/service-commercial-flooring-800w.webp 800w, /images/service-commercial-flooring-1200w.webp 1200w, /images/service-commercial-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
